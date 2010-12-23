@@ -124,7 +124,7 @@ $lang = array_merge($lang, array(
 	'UPDATE_MOD_CONFIRM'			=> '您準備要更新 %s 嗎？',
 	'UPDATE_UMIL'					=> '這個 UMIL 的版本是過期的。<br /><br />請下載最新的 UMIL (Unified MOD Install Library) 從：<a href="%1$s">%1$s</a>',
 
-	'VERSIONS'						=> '外掛版本：<strong>%1$s</strong><br />目前已安裝：<strong>%2$s</strong>',
+	'VERSIONS'						=> '外掛版本：<strong>%1$s</strong><br />，目前已安裝：<strong>%2$s</strong>。',
 	'VERSION_SELECT'				=> '版本選擇',
 	'VERSION_SELECT_EXPLAIN'		=> '不要改變「忽略」的設定，除非您知道您正在做甚麼或被告知怎麼做。',
 ));
